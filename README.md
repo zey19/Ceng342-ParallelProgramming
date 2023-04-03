@@ -9,3 +9,7 @@ Created matrix with size of command line arguments than filled with random numbe
 than the output is written in the output.txt file which is also given in command line.
 
 ![Ekran görüntüsü 2023-03-18 233023](https://user-images.githubusercontent.com/75540856/226137006-95489861-1969-4f17-8264-a2ca04f2a0ed.png)
+
+3) Parallel Matrix Vector Multiplication
+
+![Ekran görüntüsü 2023-04-03 212152](https://user-images.githubusercontent.com/75540856/229600609-8f355946-e304-43d3-87a8-4052004da512.png)
